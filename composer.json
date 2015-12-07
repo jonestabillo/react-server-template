@@ -1,0 +1,13 @@
+{
+    "name": "React Template",
+    "require": {
+        "react/react": "v0.4.2",
+        "phpunit/phpunit": "5.1.0",
+        "apache/log4php": "2.3.0"
+    },
+     "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
